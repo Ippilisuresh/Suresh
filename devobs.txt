@@ -1,0 +1,33 @@
+
+Suresh Naidu@LAPTOP-UUCV0MNG MINGW64 /e/Git parctice
+$ git --version
+git version 2.25.0.windows.1
+
+Suresh Naidu@LAPTOP-UUCV0MNG MINGW64 /e/Git parctice
+$ git clone https://github.com/Ippilisuresh/Devobs1.git
+Cloning into 'Devobs1'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 590 bytes | 1024 bytes/s, done.
+
+Suresh Naidu@LAPTOP-UUCV0MNG MINGW64 /e/Git parctice
+$ ls
+Devobs1/
+
+Suresh Naidu@LAPTOP-UUCV0MNG MINGW64 /e/Git parctice
+$ cd Devobs1
+
+Suresh Naidu@LAPTOP-UUCV0MNG MINGW64 /e/Git parctice/Devobs1 (master)
+$ ll
+total 1
+-rw-r--r-- 1 Suresh Naidu 197121 9 Jan 27 13:55 README.md
+
+Suresh Naidu@LAPTOP-UUCV0MNG MINGW64 /e/Git parctice/Devobs1 (master)
+$ touch a b  c d e f
+
+Suresh Naidu@LAPTOP-UUCV0MNG MINGW64 /e/Git parctice/Devobs1 (master)
+$ ^C
+
+Suresh Naidu@LAPTOP-UUCV0MNG MINGW64 /e/Git parctice/Devobs1 (master)
+$
